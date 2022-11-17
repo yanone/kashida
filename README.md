@@ -1,6 +1,7 @@
 # Kashida
  
-Insert kashidas typographically correctly into Arabic text: Only once per word, and following the rules as layed out in the [Kashida Secret](https://www.khtt.net/en/page/1821/the-big-kashida-secret)
+Insert kashidas typographically correct into Arabic text via a nifty Python package:
+Only once per word, and following the rules as layed out in Khtt.net’s [Kashida Secret](https://www.khtt.net/en/page/1821/the-big-kashida-secret)
 
 # Installation
 
