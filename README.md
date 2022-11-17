@@ -11,7 +11,7 @@ import kashida
 >>> kashida.word("كشيدة")
 >>> كشـيدة
 
-# Obtain kashida for whole text at once
+# Obtain kashidas for a whole text, once per word
 >>> kashida.text("انا بحب الكشيدة")
 >>> انـا بحـب الكشـيدة
 ```
