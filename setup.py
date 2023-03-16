@@ -11,11 +11,11 @@ install_requires = []
 
 setup(
     name="kashida",
-    version="1.0.post1",  # .post1
+    version="1.0.1",  # .post1
     description="",
     author="Yanone",
     author_email="post@yanone.de",
-    url="https://gthub.com/yanone/kashida",
+    url="https://github.com/yanone/kashida",
     install_requires=install_requires,
     package_dir={"": "Lib"},
     packages=find_packages("Lib"),
